@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Concluí, em 2023, o curso técnico de Informática pelo Senac São Bernardo do Campo. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC, onde venho aprimorando minhas habilidades em programação, desenvolvimento web e tecnologias voltadas tanto para o   back-end quanto para o front-end. Gosto aprender continuamente, contribuir com projetos e evoluir como desenvolvedor.
+  Concluí, em 2023, o curso técnico de Informática pelo Senac São Bernardo do Campo. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC, onde venho aprimorando minhas habilidades em programação, desenvolvimento web e tecnologias voltadas tanto para o   back-end quanto para o front-end. Gosto de aprender continuamente, contribuir com projetos e evoluir como desenvolvedor.
 </p>
 
 ---
